@@ -542,7 +542,21 @@ aside a.button {
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/navigate-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+a.navi-button {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.navi-button small {
+  display: block;
+  font-size: 11px;
 }
 aside a.navi-button{
   display:block;
